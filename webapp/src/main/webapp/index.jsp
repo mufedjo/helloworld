@@ -6,10 +6,9 @@
 <h2>	IN 6 MONTHS</h2>
 <h2> </h2>
 <h2>	**********************</h2>
-<h2>	This is my final pipeline production</h2>
-<h2>	automatically build by Jenkins</h2>
-<h2>	and deployed to kubernetes by ansible<h2>
-<h2>	using 5 paybooks (push,build,deploy,service,show)<h2>
+<h2>	This is my final fully automated pipeline production</h2>
+<h2>	build by Jenkins and deployed to kubernetes by ansible<h2>
+<h2>	using 3 paybooks (push,deploy,serice)<h2>
 <h2>	_________________________________________________</h2>
 <h2>	*************************************************</h2>
 <h1>    Thank you Prof Serge       </h1>
